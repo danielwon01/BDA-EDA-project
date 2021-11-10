@@ -1,0 +1,5 @@
+머스트잇 크롤링은 등록일을 추출할 수가 없었습니다.
+
+https://mustit.co.kr/product/search?search_action=search&event=0&event_no=1074&keyword=%EB%82%98%EC%9D%B4%ED%82%A4+%EB%8D%A9%ED%81%AC+%EB%A1%9C%EC%9A%B0+%EB%B2%94%EA%B3%A0%EB%9E%98&x=0&y=0&search_count=4&click=all_productsearch#sort=regdt&per_page=40&change_count=2
+
+등록일을 뽑을 수 있는 다른 사이트를 통해 데이터 가져와야 우리 프로젝트를 진행할 수 있을 것 같습니다.
